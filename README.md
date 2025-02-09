@@ -5,8 +5,8 @@ Python, SQL, MATLAB
 
 ## Education
 -Pre-engineering Degree in Physics and Maths (2 years)
-##### Current Education:
-  1st-year Applied Mathematics and Modeling student at ENSIT, specializing in Data Science and AI.
+## Current Education:
+  -1st-year Applied Mathematics and Modeling student at ENSIT, specializing in Data Science and AI.
 
 ### Programming Languages:
 Python, C, C++, HTML, CSS
