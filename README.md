@@ -1,10 +1,11 @@
-# portfolio
+# Journey into Data & AI
 
-#### Technical Skills: Python, SQL, MATLAB
+#### Technical Skills:
+Python, SQL, MATLAB
 
 ## Education
 -Pre-engineering Degree in Physics and Maths (2 years)
--Current Education
+-Current Education:
   1st-year Applied Mathematics and Modeling student at ENSIT, specializing in Data Science and AI.
 
 ### Programming Languages:
